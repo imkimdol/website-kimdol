@@ -1573,7 +1573,7 @@ a {
 }
 .cid-tiulb3uWrB .card-wrapper {
   border-radius: 4px;
-  background-color: #ffffff;
+  background-color: #353535;
 }
 .cid-tiulb3uWrB .image-wrapper img {
   width: 100%;
@@ -1581,6 +1581,12 @@ a {
 }
 .cid-tiulb3uWrB .card:not(:nth-last-child(1)) {
   margin-bottom: 2rem;
+}
+.cid-tiulb3uWrB .mbr-text {
+  color: #fafafa;
+}
+.cid-tiulb3uWrB .card-title {
+  color: #ffffff;
 }
 .cid-tiumaRywCC {
   padding-top: 1rem;
@@ -1617,7 +1623,7 @@ a {
 }
 .cid-tiumaRywCC .card-wrapper {
   border-radius: 4px;
-  background-color: #ffffff;
+  background-color: #353535;
 }
 .cid-tiumaRywCC .image-wrapper img {
   width: 100%;
@@ -1625,6 +1631,12 @@ a {
 }
 .cid-tiumaRywCC .card:not(:nth-last-child(1)) {
   margin-bottom: 2rem;
+}
+.cid-tiumaRywCC .card-title {
+  color: #ffffff;
+}
+.cid-tiumaRywCC .mbr-text {
+  color: #fafafa;
 }
 .cid-tjav9tHZGt {
   padding-top: 1rem;
@@ -1661,7 +1673,7 @@ a {
 }
 .cid-tjav9tHZGt .card-wrapper {
   border-radius: 4px;
-  background-color: #ffffff;
+  background-color: #353535;
 }
 .cid-tjav9tHZGt .image-wrapper img {
   width: 100%;
@@ -1669,6 +1681,12 @@ a {
 }
 .cid-tjav9tHZGt .card:not(:nth-last-child(1)) {
   margin-bottom: 2rem;
+}
+.cid-tjav9tHZGt .card-title {
+  color: #ffffff;
+}
+.cid-tjav9tHZGt .mbr-text {
+  color: #fafafa;
 }
 .cid-tjavPS0vys {
   padding-top: 1rem;
@@ -1705,7 +1723,7 @@ a {
 }
 .cid-tjavPS0vys .card-wrapper {
   border-radius: 4px;
-  background-color: #ffffff;
+  background-color: #353535;
 }
 .cid-tjavPS0vys .image-wrapper img {
   width: 100%;
@@ -1713,6 +1731,12 @@ a {
 }
 .cid-tjavPS0vys .card:not(:nth-last-child(1)) {
   margin-bottom: 2rem;
+}
+.cid-tjavPS0vys .card-title {
+  color: #ffffff;
+}
+.cid-tjavPS0vys .mbr-text {
+  color: #fafafa;
 }
 .cid-tjawLiOPXb {
   padding-top: 1rem;
@@ -1749,7 +1773,7 @@ a {
 }
 .cid-tjawLiOPXb .card-wrapper {
   border-radius: 4px;
-  background-color: #ffffff;
+  background-color: #353535;
 }
 .cid-tjawLiOPXb .image-wrapper img {
   width: 100%;
@@ -1757,6 +1781,12 @@ a {
 }
 .cid-tjawLiOPXb .card:not(:nth-last-child(1)) {
   margin-bottom: 2rem;
+}
+.cid-tjawLiOPXb .card-title {
+  color: #ffffff;
+}
+.cid-tjawLiOPXb .mbr-text {
+  color: #fafafa;
 }
 .cid-tjaxJjNt1z {
   padding-top: 2rem;

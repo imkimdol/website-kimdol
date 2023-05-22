@@ -1,0 +1,30 @@
+.banner img{
+  top: -35%;
+}
+
+.projects{
+  width: 94%;
+  padding: 15px 3%;
+  background-color: #131313;
+}
+.projects{
+  height: 70vh;
+  background-color: #050505;
+}
+.projects ul{
+  padding: 0;
+  display: flex;
+  justify-content: space-evenly;
+  align-content: space-between;
+  align-items: center;
+  flex-wrap: wrap;
+}
+.projects ul li{
+  display: inline-block;
+  list-style: none;
+}
+.projects iframe{
+  border: 0;
+  width: 300px;
+  height: 450px;
+}

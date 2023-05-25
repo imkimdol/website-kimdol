@@ -9,10 +9,13 @@
   height: 100vh;
   background-color: rgba(0, 0, 0, .3);
 }
-.splash p{
+.splash h1{
   color: white;
   font-weight: Bold;
-  font-size: 50px;
+  font-size: 60px;
+
+  cursor: default;
+  text-shadow: 5px 5px 5px rgba(0, 0, 0, 1);
 }
 .splash img {
   width: 100%;

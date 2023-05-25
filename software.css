@@ -49,15 +49,19 @@
   font-size: 30px;
 }
 .software ul li h3{
-  margin-top: 0px;
-  margin-bottom: 15px;
+  margin: 0;
   font-size: 17px;
   font-weight: lighter;
   font-style: italic;
+  display: inline-block;
+}
+.software ul li h3.divider{
+  margin: 0px 0.5em;
 }
 .software ul li p{
   margin: 0;
-  text-justify: distribute;
+  margin-top: 15px;
+  text-align: justify;
   text-shadow: none;
 }
 .software ul li a{

@@ -46,6 +46,7 @@ a {
   width: 94%;
   padding: 0 3%;
   background-color: rgba(0, 0, 0, .6);
+  z-index: 1;
 }
 .header nav{
   width: 100%;

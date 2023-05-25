@@ -24,7 +24,7 @@
   transition: top 0.15s;
 }
 .songs ul li:hover{
-  top: -3px;
+  top: -4px;
 }
 .songs iframe{
   border: 0;

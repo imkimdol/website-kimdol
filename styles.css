@@ -3,6 +3,10 @@ body {
   margin: 0;
   font-family: Verdana, Geneva, Tahoma, sans-serif;
 }
+
+h1{
+  color: white;
+}
 h2 {
   color: white;
 }
@@ -23,7 +27,7 @@ a {
   height: 30vh;
   background-color: rgba(0, 0, 0, .3);
 }
-.banner p{
+.banner h1{
   font-weight: Bold;
   font-size: 50px;
 }

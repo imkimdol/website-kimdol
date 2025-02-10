@@ -110,3 +110,52 @@ a {
 .footer ul li a img:hover{
   filter: brightness(0.5);
 }
+
+.banner img{
+  top: -30%;
+}
+
+.songs{
+  width: 94%;
+  padding: 15px 3%;
+  background-color: #131313;
+}
+.songs ul{
+  padding: 0;
+  display: flex;
+  justify-content: space-evenly;
+  align-content: space-between;
+  align-items: center;
+  flex-wrap: wrap;
+}
+.songs ul li{
+  display: inline-block;
+  list-style: none;
+
+  position: relative;
+  top: 0px;
+  transition: top 0.15s;
+}
+.songs ul li:hover{
+  top: -5px;
+}
+.songs iframe{
+  border: 0;
+  width: 300px;
+  height: 450px;
+}
+
+@media screen and (max-width: 500px){
+  .banner h1{
+    font-size: 10vw;
+  }
+}
+
+@media screen and (max-width: 430px){
+  .header nav a{
+    font-size: 4.5vw;
+  }
+  .header nav a.website-name{
+    font-size: 6vw;
+  }
+}
